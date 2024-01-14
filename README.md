@@ -25,3 +25,5 @@ Explore the intersection of React.js and Three.js with this dynamic e-commerce w
 - **Vite:** A fast and efficient build tool for web development.
 
 Feel free to explore the codebase, experiment with the T-shirt customizer, and adapt the project for your own purposes. Contributions and feedback are welcome!
+
+## 📷 Screenshots
